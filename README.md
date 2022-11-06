@@ -36,7 +36,10 @@ To begin coding your application, let's walk you through a few simple steps to s
     ```
 3. Install the required packages
    ```bash
+   ...
    > pip install -r requirements.txt
+   ...
+   ```
 4. Happy coding! Feel free to create and modify files within the `app` directory to create your own API or any other web app!
 
 ---
