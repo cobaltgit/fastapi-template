@@ -1,0 +1,6 @@
+{
+    "name": "FastAPI Template Application",
+    "description": "A minimal template for FastAPI web application projects",
+    "repository": "https://github.com/cobaltgit/fastapi-template.git",
+    "keywords": ["python", "fastapi", "webapp"]
+}
