@@ -4,6 +4,6 @@ rem FastAPI startup script for Windows systems
 
 cd /D "%~dp0"
 
-py -m uvicorn app:app
+start venv/Scripts/python -m uvicorn app:app
 
 pause
